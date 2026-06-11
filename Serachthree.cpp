@@ -157,4 +157,10 @@ int main()
             break;
         }
 
+     case '2':
+        {
+            obj.inorder(obj.root);
+            break;
+        }
+
         
