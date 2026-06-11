@@ -169,4 +169,10 @@ int main()
             break;
         }
 
+    case '4':
+        {
+            obj.postorder(obj.root);
+            break;
+        }
+
         
